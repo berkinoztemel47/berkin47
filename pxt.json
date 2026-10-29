@@ -1,0 +1,17 @@
+{
+    "name": "hava-sesi",
+    "version": "1.0.0",
+    "description": "Hava iyi / kötü / temiz sesleri için çal blokları",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "shim.ts",
+        "iyi.ts",
+        "kotu.ts",
+        "temiz.ts",
+        "ses.ts"
+    ],
+    "public": true
+}
